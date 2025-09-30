@@ -1,0 +1,15 @@
+/workspaces/2025-2-MM-POO/sobreescrita/bin/Debug/net8.0/sobreescrita
+/workspaces/2025-2-MM-POO/sobreescrita/bin/Debug/net8.0/sobreescrita.deps.json
+/workspaces/2025-2-MM-POO/sobreescrita/bin/Debug/net8.0/sobreescrita.runtimeconfig.json
+/workspaces/2025-2-MM-POO/sobreescrita/bin/Debug/net8.0/sobreescrita.dll
+/workspaces/2025-2-MM-POO/sobreescrita/bin/Debug/net8.0/sobreescrita.pdb
+/workspaces/2025-2-MM-POO/sobreescrita/obj/Debug/net8.0/sobreescrita.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/2025-2-MM-POO/sobreescrita/obj/Debug/net8.0/sobreescrita.AssemblyInfoInputs.cache
+/workspaces/2025-2-MM-POO/sobreescrita/obj/Debug/net8.0/sobreescrita.AssemblyInfo.cs
+/workspaces/2025-2-MM-POO/sobreescrita/obj/Debug/net8.0/sobreescrita.csproj.CoreCompileInputs.cache
+/workspaces/2025-2-MM-POO/sobreescrita/obj/Debug/net8.0/sobreescrita.sourcelink.json
+/workspaces/2025-2-MM-POO/sobreescrita/obj/Debug/net8.0/sobreescrita.dll
+/workspaces/2025-2-MM-POO/sobreescrita/obj/Debug/net8.0/refint/sobreescrita.dll
+/workspaces/2025-2-MM-POO/sobreescrita/obj/Debug/net8.0/sobreescrita.pdb
+/workspaces/2025-2-MM-POO/sobreescrita/obj/Debug/net8.0/sobreescrita.genruntimeconfig.cache
+/workspaces/2025-2-MM-POO/sobreescrita/obj/Debug/net8.0/ref/sobreescrita.dll
